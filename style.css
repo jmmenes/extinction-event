@@ -20,7 +20,8 @@ ul li {
   transition: 2s opacity;
 }
 
-.feature, header {
+.feature,
+header {
   display: flex;
   flex-direction: column;
   align-items: center;
